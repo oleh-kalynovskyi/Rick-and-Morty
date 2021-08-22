@@ -1,0 +1,38 @@
+
+.Location {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: center;
+    
+    padding: 20px;
+
+    width: 100%;
+    min-height: 100%;
+}
+
+.Location-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.Location-item {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 1px solid #7f7f7f;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 10px;
+}

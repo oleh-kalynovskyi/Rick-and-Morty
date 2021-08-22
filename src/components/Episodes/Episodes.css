@@ -1,0 +1,40 @@
+
+
+.Episodes {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    padding: 20px;
+
+    width: 100%;
+    min-height: 100%;
+}
+
+.Episodes-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;    
+}
+
+.Episodes-item {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 1px solid #7f7f7f;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 10px;
+}

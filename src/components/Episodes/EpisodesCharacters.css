@@ -1,0 +1,38 @@
+.EpisodesCharacters {
+    width: 500px;
+
+    position: fixed;
+    background-color: rgba(34, 60, 80, 0.59);
+    color: white;
+
+    padding: 10px;
+
+    border-radius: 10px;
+        
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    -webkit-box-shadow: 0px 0px 10px 10px rgba(34, 60, 80, 0.16);
+    -moz-box-shadow: 0px 0px 10px 10px rgba(34, 60, 80, 0.16);
+    box-shadow: 0px 0px 10px 10px rgba(34, 60, 80, 0.16);
+}
+
+.EpisodesCharacters-topBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.swiper-slide {
+    width: unset !important;
+}
+
+
+.EpisodesCharacters-item{
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,31 @@
+
+.MyWarchList {
+    padding: 20px;
+
+    width: 100%;
+    min-height: 100%;
+}
+
+.MyWarchList-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.MyWarchList-item {
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.MyWarchList-item-text {
+    width: 300px;
+    text-align: center;
+}
