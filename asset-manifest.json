@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/oleh-kalynovskyi/Rick-and-Morty/static/css/main.4853ca88.chunk.css",
-    "main.js": "/oleh-kalynovskyi/Rick-and-Morty/static/js/main.0a4dfb07.chunk.js",
-    "main.js.map": "/oleh-kalynovskyi/Rick-and-Morty/static/js/main.0a4dfb07.chunk.js.map",
-    "runtime-main.js": "/oleh-kalynovskyi/Rick-and-Morty/static/js/runtime-main.3ab82ea5.js",
-    "runtime-main.js.map": "/oleh-kalynovskyi/Rick-and-Morty/static/js/runtime-main.3ab82ea5.js.map",
-    "static/css/2.a310d5aa.chunk.css": "/oleh-kalynovskyi/Rick-and-Morty/static/css/2.a310d5aa.chunk.css",
-    "static/js/2.05c96ade.chunk.js": "/oleh-kalynovskyi/Rick-and-Morty/static/js/2.05c96ade.chunk.js",
-    "static/js/2.05c96ade.chunk.js.map": "/oleh-kalynovskyi/Rick-and-Morty/static/js/2.05c96ade.chunk.js.map",
-    "index.html": "/oleh-kalynovskyi/Rick-and-Morty/index.html",
-    "static/css/2.a310d5aa.chunk.css.map": "/oleh-kalynovskyi/Rick-and-Morty/static/css/2.a310d5aa.chunk.css.map",
-    "static/css/main.4853ca88.chunk.css.map": "/oleh-kalynovskyi/Rick-and-Morty/static/css/main.4853ca88.chunk.css.map",
-    "static/js/2.05c96ade.chunk.js.LICENSE.txt": "/oleh-kalynovskyi/Rick-and-Morty/static/js/2.05c96ade.chunk.js.LICENSE.txt"
+    "main.css": "/Rick-and-Morty/static/css/main.4853ca88.chunk.css",
+    "main.js": "/Rick-and-Morty/static/js/main.0a4dfb07.chunk.js",
+    "main.js.map": "/Rick-and-Morty/static/js/main.0a4dfb07.chunk.js.map",
+    "runtime-main.js": "/Rick-and-Morty/static/js/runtime-main.3ab82ea5.js",
+    "runtime-main.js.map": "/Rick-and-Morty/static/js/runtime-main.3ab82ea5.js.map",
+    "static/css/2.a310d5aa.chunk.css": "/Rick-and-Morty/static/css/2.a310d5aa.chunk.css",
+    "static/js/2.05c96ade.chunk.js": "/Rick-and-Morty/static/js/2.05c96ade.chunk.js",
+    "static/js/2.05c96ade.chunk.js.map": "/Rick-and-Morty/static/js/2.05c96ade.chunk.js.map",
+    "index.html": "/Rick-and-Morty/index.html",
+    "static/css/2.a310d5aa.chunk.css.map": "/Rick-and-Morty/static/css/2.a310d5aa.chunk.css.map",
+    "static/css/main.4853ca88.chunk.css.map": "/Rick-and-Morty/static/css/main.4853ca88.chunk.css.map",
+    "static/js/2.05c96ade.chunk.js.LICENSE.txt": "/Rick-and-Morty/static/js/2.05c96ade.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ab82ea5.js",
